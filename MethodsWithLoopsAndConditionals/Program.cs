@@ -118,7 +118,7 @@ namespace MethodsWithLoopsAndConditionals
             //table(from 1 to 12) of a given integer.
            public static void MultiplyTable()
         { }
-        //testing
+        
 
     }
 
